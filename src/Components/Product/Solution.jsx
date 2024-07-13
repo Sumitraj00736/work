@@ -74,8 +74,8 @@ const SolutionsComponent = () => {
         </h1>
       </div>
       <div className="flex flex-col lg:flex-row p-4">
+        
         {/* Left Sidebar */}
-
         <div className="relative ml-20 lg:w-1/3 pr-4">
           {solutions.map((solution, index) => (
             <button
