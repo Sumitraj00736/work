@@ -1,0 +1,9 @@
+  .slider {
+    position: absolute;
+    left: -20px;
+    width: 5px;
+    height: 57px;
+    background-color: #5F026E;
+    transition: top 0.3s;
+  }
+ 
